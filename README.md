@@ -1,7 +1,4 @@
-# Edmonton
-Alberta, Canada
-
+# Promotion
+Judy Zhu
  ---
 
-[]
-[ ]
