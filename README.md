@@ -12,9 +12,7 @@ ee
 - [ ] Flag:
 - [ ] Language: English, Chinese
 - [ ] Birth place: Edmonton
-- 
- 
-`
+\
 - [ ] Sports: Badminton, Dance, Figure skating
 - [ ] Music: 
     - [ ] Play piano, ukulele
