@@ -1,9 +1,12 @@
 # Promotion for Spotify (?)
 By Judy Zhu
-eee
+
+ee
+
  ---
+
  About the Author
-[ ] Nationality: Canadian
+- [ ] Nationality: Canadian
 [ ] Ethnicity:  Chinese
 [ ] Country: Canada
 [ ] Flag:
